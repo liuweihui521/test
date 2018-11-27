@@ -1,4 +1,4 @@
-
+#test
 cd /home/ubuntu/roomserver
 
 mvn clean package -am -pl kurento-room-sdk -DskipTests
